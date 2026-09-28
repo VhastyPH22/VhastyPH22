@@ -2,11 +2,7 @@ Hi, I'm Vhasty 👋
 
 I'm a passionate Backend Developer who enjoys building reliable and scalable web and mobile applications.
 
-🛠️ Tech Stack:
 
-• Frontend: HTML, CSS, JavaScript, React.js
-• Backend: PHP, Node.js, Java, Kotlin
-• Frameworks: React.js, React Native
-• Database: MySQL, PostgreSQL
+I have experience working with technologies such as PHP, Node.js, Java, Kotlin, MySQL, PostgreSQL, React.js, and React Native, along with HTML, CSS, and JavaScript.
 
 I enjoy building practical, efficient, and user-focused applications.
